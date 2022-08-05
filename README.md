@@ -15,7 +15,19 @@ or
 
 ```
 
-python3 JSONtoText2112.py
+$ python3 JSONtoText2112.py
+
+```
+
+# Installation:
+
+```
+
+$ git clone https://github.com/ScientificAJ/JSONtoText2112.git
+
+$ cd JSONtoText2112/
+
+$ chmod +x JSONtoText2112.py
 
 ```
 
