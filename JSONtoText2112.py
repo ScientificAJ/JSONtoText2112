@@ -1,6 +1,6 @@
 print("""
 
-Hi, This Program is a file type converter
+Hi, This Program is a file type converter (JSON to Text)
 
 """)
 x = input("Location of The File: ")
